@@ -59,3 +59,20 @@ int main ()
   fclose (fp);
   return 0;
 }
+
+
+/*
+Output:
+
+void is keyword
+main is indentifier
+int is keyword
+= is operator
+= is operator
+a10b20 is indentifier
+float is keyword
+= is operator
+c30 is indentifier
+
+
+*/
